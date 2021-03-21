@@ -1,0 +1,11 @@
+{
+  "name": "nodeExcersise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mwladyka126/nodeExcersise.git",
+  "author": "Malgorzata Wladyka <mwladyka126@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
